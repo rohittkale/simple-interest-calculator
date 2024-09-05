@@ -4,7 +4,7 @@ Thank you for your interest in contributing to this project! As a solo project f
 
 ## How to Contribute
 
-Since this project is being managed individually, contributions from others are not currently accepted. However, if you have suggestions for improvements or feedback, feel free to reach out to me via [rohit@example.com](mailto:rohit@example.com).
+Since this project is being managed individually, contributions from others are not currently accepted. However, if you have suggestions for improvements or feedback, feel free to reach out to me via [kalerohit1912@gmail.com](mailto:kalerohit1912@gmail.com).
 
 ## Reporting Issues
 
@@ -12,6 +12,6 @@ If you encounter any issues or have suggestions for enhancements, please create 
 
 ## Contact
 
-For any inquiries or suggestions, please contact me at [rohit@example.com](mailto:rohit@example.com).
+For any inquiries or suggestions, please contact me at [kalerohit1912@gmail.com](mailto:kalerohit1912@gmail.com).
 
 Thank you for your understanding and support!
